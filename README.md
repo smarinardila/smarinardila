@@ -2,7 +2,7 @@
 
 ### I'm a statistician and data scientist
 
-<img align="left" width="150" height="150" src="hi.png"></a>
+<img align="left" width="150" height="150" src="https://github.com/smarinardila/smarinardila/blob/main/pictures/hi.png"></a>
 - 🔭 I'm interested in statistics in general! But more specifically, I'm interested in Bayesian analysis, hierarchical/multilevel modeling, simulation-based inference, Markov Chain Monte Carlo (MCMC) methods, and their applications to solve real-world problems.
 - 🌱 I’m currently learning a lil bit about everything :eyes:
 - ⚡ Fun fact: Sometimes I love to read random stuff on Wikipedia
