@@ -5,7 +5,7 @@
 <br />
 
 <img align="left" width="150" height="150" src="https://github.com/smarinardila/smarinardila/blob/main/pictures/hi.png"></a>
-- 🔭 I'm interested in statistics and machine learning in general! But more specifically, I'm interested in Bayesian analysis, hierarchical/multilevel modeling, simulation-based inference, and Markov Chain Monte Carlo (MCMC) methods. I'm also interested in applying novel methodologies to solve real-world problems <!--- - 🌱 I’m currently learning a lil bit about everything :eyes: -->
+- 🔭 I'm interested in statistics and machine learning in general! But more specifically, I'm interested in Bayesian analysis, hierarchical/multilevel modeling, simulation-based inference, and Markov Chain Monte Carlo (MCMC) methods. I'm also interested in applying novel statistical methodologies to solve real-world problems <!--- - 🌱 I’m currently learning a lil bit about everything :eyes: -->
 - ⚡ Fun fact: Sometimes I love to read random stuff on Wikipedia :eyes:
 - :smile: Pronouns: He/him
 
