@@ -15,8 +15,6 @@ I'm a statistician and a data scientist. I'm interested in statistics and machin
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 -->
 
-<br />
-
 ---
 
 ### Languages and Tools:
